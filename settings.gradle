@@ -1,0 +1,2 @@
+rootProject.name='Retrofit-Email-List'
+include ':app'
